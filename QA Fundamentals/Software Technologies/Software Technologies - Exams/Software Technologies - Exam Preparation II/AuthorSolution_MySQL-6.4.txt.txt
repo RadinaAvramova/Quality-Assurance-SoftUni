@@ -1,0 +1,2 @@
+SELECT DISTINCT town, continent
+FROM addresses;
